@@ -527,7 +527,7 @@ const projects = [
     description:
       "Engineered scalable loan lifecycle workflows with Kafka-driven asynchronous processing, REST APIs, and production-grade architecture for digital lending systems.",
     metrics: [
-      "20+ production REST APIs",
+      "30+ production REST APIs",
       "Kafka event-driven workflows",
       "Loan lifecycle automation",
     ],
@@ -651,7 +651,7 @@ export default function Home() {
               
               {[
                 ["2+", "Years Experience"],
-                ["20+", "REST APIs"],
+                ["30+", "REST APIs"],
                 ["Fintech", "Production Systems"],
               ].map(([num, label]) => (
                 <div key={label}>
@@ -955,7 +955,7 @@ export default function Home() {
               {[
                 {
                   icon: <Server className="text-blue-400" />,
-                  text: "Built and maintained 20+ production REST APIs",
+                  text: "Built and maintained 30+ production REST APIs",
                 },
                 {
                   icon: <Database className="text-purple-400" />,
