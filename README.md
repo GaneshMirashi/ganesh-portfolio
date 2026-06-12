@@ -1,6 +1,6 @@
 # Ganesh Mirashi - Portfolio
 
-Full Stack Developer with 2 years of experience in Next.js and Django REST Framework.
+Full Stack Developer with 3 years of experience in Next.js and Django REST Framework.
 
 ## 🚀 About Me
 I am currently working at GTPL, a startup in Bangalore, building scalable fintech applications including lending and KYC platforms.
@@ -23,4 +23,4 @@ KYC verification platform with role-based access and blockchain-based identity v
 
 ## 📫 Contact
 - Email: ganeshmirashi62@gmail.com
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/ganesh-mirashi-69822322a/
