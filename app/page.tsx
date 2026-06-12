@@ -183,7 +183,7 @@ export default function Home() {
             <div className="mt-14 grid grid-cols-3 gap-6 max-w-xl">
               
               {[
-                ["2+", "Years Experience"],
+                ["3+", "Years Experience"],
                 ["30+", "REST APIs"],
                 ["Fintech", "Production Systems"],
               ].map(([num, label]) => (
@@ -316,7 +316,7 @@ export default function Home() {
             </h2>
 
             <p className="mt-8 text-lg text-gray-400 leading-relaxed">
-              Python Full Stack Developer with 2+ years of experience building
+              Python Full Stack Developer with 3+ years of experience building
               fintech and enterprise applications using Django, Django REST
               Framework, Kafka, PostgreSQL, and Next.js. Experienced in scalable
               API development, event-driven systems, authentication workflows,
